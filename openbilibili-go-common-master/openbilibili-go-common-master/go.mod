@@ -38,6 +38,7 @@ require (
 	github.com/Shopify/sarama v1.34.0 // indirect
 	github.com/bouk/monkey v1.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
@@ -68,6 +69,7 @@ require (
 	github.com/pingcap/tidb-tools v2.1.0+incompatible // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
+	github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414
 	github.com/siddontang/go-mysql v1.1.0 // indirect
 	github.com/smarty/assertions v1.15.0 // indirect
 	github.com/smartystreets/goconvey v1.8.1 // indirect

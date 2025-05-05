@@ -38,7 +38,7 @@ go_library(
         "//library/ecode:go_default_library",
         "//library/log:go_default_library",
         "//library/net/http/blademaster:go_default_library",
-        "//vendor/code.google.com/p/graphics-go/graphics:go_default_library",
+        "//vendor/github.com/liujiawm/graphics-go/graphics:go_default_library",
         "//vendor/github.com/golang/freetype:go_default_library",
         "//vendor/golang.org/x/image/font:go_default_library",
         "//vendor/golang.org/x/image/math/fixed:go_default_library",

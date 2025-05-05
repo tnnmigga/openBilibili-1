@@ -18,9 +18,10 @@ import (
 	"go-common/app/admin/openplatform/sug/model"
 	"go-common/library/log"
 
-	"code.google.com/p/graphics-go/graphics"
 	"errors"
+
 	"github.com/golang/freetype"
+	"github.com/liujiawm/graphics-go/graphics"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
 )
